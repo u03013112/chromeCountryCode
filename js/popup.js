@@ -225,6 +225,9 @@ var countryList = [
     ['Yugoslavia', 'YU', '南斯拉夫'],
     ['Zambia', 'ZM', '赞比亚'],
     ['Zimbabwe', 'ZW', '津巴布韦'],
+    ['Taiwan', 'TW', '台湾'],
+    ['Hongkong', 'HK', '香港'],
+    ['Aomen', 'MO', '澳门'],
 ]
 
 var getSelectedTab = (tab) => {
