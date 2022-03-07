@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "country code",
+    "version": "0.0.1",
+    "description": "country code search",
+    "icons": {
+        "16": "img/icon.png",
+        "48": "img/icon.png",
+        "128": "img/icon.png"
+    },
+    "browser_action": {
+        "default_icon": "img/icon.png",
+        "default_title": "country code",
+        "default_popup": "popup.html"
+    },
+    "default_locale": "en"
+}
